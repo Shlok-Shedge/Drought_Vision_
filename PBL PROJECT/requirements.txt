@@ -1,0 +1,14 @@
+# DroughtVision AI - Laptop Environment Requirements
+# Designed to be lightweight and CPU-friendly for Dell Latitude 7420
+
+streamlit>=1.30.0
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+pillow>=9.5.0
+matplotlib>=3.7.0
+folium>=0.15.0
+streamlit-folium>=0.17.0
+earthengine-api>=0.1.380
+geemap>=0.30.0
+requests>=2.31.0
